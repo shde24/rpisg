@@ -1,3 +1,5 @@
+[<- return to home](https://wavetecrr.github.io/)
+
 ## WavetecRR's Raspberry Pi Starter Guide!
 
 If you recieved a Raspbery Pi for either Christmas or your birthday, count yourself lucky! For many years, the Raspberry Pi Foundation has made low cost computers in many shapes and sizes! So, seeing as I am a programmer that has owned a few Raspberry Pi's before, I'm going to teach you what you should do when you get one!
@@ -27,3 +29,11 @@ If you have NOOBS on your MicroSD Card, you can select the OS you want in the li
 If you have Raspberry Pi OS on your MicroSD Card, follow the instructions on the screen to set the install of Raspberry Pi OS up. If all goes well, you will eventually see the desktop! When you see this, you have successfully set up Raspberry Pi OS! 
 
 ## Step seven
+
+Now that you are up and running, its time to start using the Pi! If you have used Apple MacOS or Microsoft Windows, this might look familliar to you. Just like a regular computer, you can chat, play games, watch videos and movies, view pictures, do work, surf the web and do many other things! Go on, and explore!
+
+## And thats it!
+
+Thanks for reading this very watered down webpage about setting up the Raspberry Pi! If what you wanted to see wasn't here, you can always go back and check the book that came with your Pi!
+
+###### version 1.0
