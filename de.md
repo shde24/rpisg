@@ -10,7 +10,7 @@ Wenn Sie Ihren Raspberry Pi wie die meisten Leute in einem Bausatz erhalten habe
 
 ## Schritt zwei (gilt nur, wenn Sie eine leere SD-Karte haben)
 
-Wenn Sie einen Raspberry Pi ohne oder mit einer leeren MicroSD-Karte gekauft haben, müssen Sie die Karte entweder mit [Raspberry Pi Imager] (https://downloads.raspberrypi.org/imager/imager_latest.exe) oder [BalenaEtcher] abbilden. (https://www.balena.io/etcher), obwohl es empfohlen wird, mit dem [Raspberry Pi Imager] (https://downloads.raspberrypi.org/imager/imager_latest.exe) zu flashen, da Sie dies nicht benötigen um die Image-Datei für das gewünschte Betriebssystem herunterzuladen. Dennoch ist es Ihre Entscheidung, was Sie verwenden. **Wenn Sie einen Raspberry Pi haben, der mit einer MicroSD-Karte mit NOOBS (New Out Of Box Software) oder Raspberry Pi OS (früher Raspbian) geliefert wurde, müssen Sie diesen Schritt NICHT ausführen und können mit dem nächsten fortfahren!* *
+Wenn Sie einen Raspberry Pi ohne oder mit einer leeren MicroSD-Karte gekauft haben, müssen Sie die Karte entweder mit [Raspberry Pi Imager](https://downloads.raspberrypi.org/imager/imager_latest.exe) oder [BalenaEtcher](https://www.balena.io/etcher), obwohl es empfohlen wird, mit dem [Raspberry Pi Imager](https://downloads.raspberrypi.org/imager/imager_latest.exe) zu flashen, da Sie dies nicht benötigen um die Image-Datei für das gewünschte Betriebssystem herunterzuladen. Dennoch ist es Ihre Entscheidung, was Sie verwenden. **Wenn Sie einen Raspberry Pi haben, der mit einer MicroSD-Karte mit NOOBS (New Out Of Box Software) oder Raspberry Pi OS (früher Raspbian) geliefert wurde, müssen Sie diesen Schritt NICHT ausführen und können mit dem nächsten fortfahren!* *
 
 ## Schritt drei
 
